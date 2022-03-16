@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @happai079
+- 👋 Hi, I’m Ha Young Park
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning java & spring for full-stack developer
 - 💞️ I’m looking to collaborate on ...
