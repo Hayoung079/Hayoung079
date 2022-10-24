@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **_Ha Young Park_**
 - 👀 I’m interested in **JavaScript**
-- 🌱 I’m currently learning **Java & Spring** for full-stack developer
+- 🌱 I’m currently learning **JavaScript & JavaScript-based library** for Web Front-End developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **gksyddl22@gmail.com**
 
